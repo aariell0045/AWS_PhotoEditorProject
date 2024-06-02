@@ -14,3 +14,4 @@ Currently, two official plugins are available:
 **Allow people to perform various manipulations on images**
 
 All what you need to know is the **Photo Editor.pdf** file
+[Photo Editor.pdf](https://github.com/user-attachments/files/15526794/Photo.Editor.pdf)
