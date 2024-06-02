@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 
-**AWS_PhotoEditorProject**
+# AWS_PhotoEditorProject
 
 **Allow people to perform various manipulations on images**
 
